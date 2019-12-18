@@ -1,3 +1,0 @@
-(1) bp rtcMsgBox
-
-(2) bp RaiseException
